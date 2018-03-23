@@ -1,0 +1,11 @@
+/Users/devsisters/work/array-example/ArrayExample/TestProject/bin/Debug/netcoreapp2.0/TestProject.deps.json
+/Users/devsisters/work/array-example/ArrayExample/TestProject/bin/Debug/netcoreapp2.0/TestProject.runtimeconfig.json
+/Users/devsisters/work/array-example/ArrayExample/TestProject/bin/Debug/netcoreapp2.0/TestProject.runtimeconfig.dev.json
+/Users/devsisters/work/array-example/ArrayExample/TestProject/bin/Debug/netcoreapp2.0/TestProject.dll
+/Users/devsisters/work/array-example/ArrayExample/TestProject/bin/Debug/netcoreapp2.0/TestProject.pdb
+/Users/devsisters/work/array-example/ArrayExample/TestProject/obj/Debug/netcoreapp2.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/devsisters/work/array-example/ArrayExample/TestProject/obj/Debug/netcoreapp2.0/TestProject.AssemblyInfoInputs.cache
+/Users/devsisters/work/array-example/ArrayExample/TestProject/obj/Debug/netcoreapp2.0/TestProject.AssemblyInfo.cs
+/Users/devsisters/work/array-example/ArrayExample/TestProject/obj/Debug/netcoreapp2.0/TestProject.dll
+/Users/devsisters/work/array-example/ArrayExample/TestProject/obj/Debug/netcoreapp2.0/TestProject.pdb
+/Users/devsisters/work/array-example/ArrayExample/TestProject/obj/Debug/netcoreapp2.0/TestProject.csprojResolveAssemblyReference.cache
